@@ -4,9 +4,13 @@ I have been dragging my feet to collect my educational endeavors and post them t
 
 I have crawled out of the cave and I see the light.
 
-In this project, I showcase my ability to wrangle datasets and prepare them for rigorous analysis.
+In this repository, I showcase my ability to wrangle datasets and prepare them for rigorous analysis.
 
-These were created for class and only intended as a showcase of my coding abilities.
+These are intended as a showcase of my coding abilities.
+
+Some are projects that I am really proud of, that made real impact for me or my client.
+
+More to come.
 
 Thank you for visiting me!
 
